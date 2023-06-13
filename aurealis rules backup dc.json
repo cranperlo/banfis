@@ -1,0 +1,80 @@
+{
+  "version": 7,
+  "backups": [
+    {
+      "name": "aurealis rules backup dc",
+      "messages": [
+        {
+          "data": {
+            "content": null,
+            "embeds": [
+              {
+                "description": "Welcome to Aurealis | Chill ⋅ Hangout, a place for people to hangout and meet new people\nHere you will find server rules and regulations\nBy residing in this server , you agree to abide by  [Discord's Terms of Service](https://discord.com/terms) & [Community Guidelines](https://discord.com/guidelines), as well as all of our rules.\nOn behalf of our staff team we hope you have a pleasant stay in the server!",
+                "color": 9265726,
+                "fields": [
+                  {
+                    "name": "RULE #1: Be respectful with all members",
+                    "value": "```\nBe respectful to others , No death threats, sexism, hate speech, racism (NO N WORD, this includes soft N)\nNo doxxing, swatting, witch hunting\n```",
+                    "inline": true
+                  },
+                  {
+                    "name": "RULE #2:No Advertising",
+                    "value": "```\nIncludes DM Advertising. We do not allow advertising here of any kind.\n```"
+                  },
+                  {
+                    "name": "RULE #3: No NSFW content",
+                    "value": "```\nAnything involving gore or sexual content is not allowed.\nNSFW = Not Safe for Work\n```"
+                  },
+                  {
+                    "name": "RULES #4:No spamming in text or VC",
+                    "value": "```\nDo not spam messages, soundboards, voice changers, or earrape in any channel.\n```"
+                  },
+                  {
+                    "name": "RULES #5:.Do not discuss about sensitive topics",
+                    "value": "```\nThis isn't a debating server, keep sensitive topics out of here so we don't have a ton of nasty arguments.\n```"
+                  },
+                  {
+                    "name": "RULE #6: No malicious content",
+                    "value": "```\nNo grabify links, viruses, crash videos, links to viruses, or token grabbers. These will result in an automated ban.\n```"
+                  },
+                  {
+                    "name": "RULE #7: No Self Bots",
+                    "value": "```\nIncludes all kinds of selfbots: Nitro snipers, selfbots like nighty, auto changing statuses\n```"
+                  },
+                  {
+                    "name": "RULE #8: Do not DM the staff team",
+                    "value": "```\ndo not DM the staff team regarding:\n1)mutes\n2)kicks\n3)bans\nor any other matter\n```"
+                  },
+                  {
+                    "name": "RULE #9:Profile Picture / Banner Rules",
+                    "value": "```\nNo NSFW allowed\nNo racism\nNo brightly flashing pictures to induce an epileptic attack\n```"
+                  },
+                  {
+                    "name": "RULE #10:Emoji Rules",
+                    "value": "```\nNo NSFW allowed\nNo racism\nNo brightly flashing pictures to induce an epileptic attack\n```"
+                  },
+                  {
+                    "name": "RULE #11:Use English only",
+                    "value": "```\nWe cannot easily moderate chats in different languages, our sincere apologies. English only.\n```"
+                  },
+                  {
+                    "name": "Check out next:",
+                    "value": "[**Get a Role**](https://discord.com/channels/887685697446748170/887685698080083972/887734026553684049)"
+                  }
+                ]
+              }
+            ],
+            "username": "Aurealis | Chill ⋅ Hangout",
+            "avatar_url": "https://cdn.discordapp.com/icons/887685697446748170/4b3bd8eb0206ac1871beb6924111c9ee.png?size=128"
+          },
+          "reference": ""
+        }
+      ],
+      "targets": [
+        {
+          "url": "https://discord.com/api/webhooks/889887025757581363/GP5dn8cblsT-z1UBWruzLVw905_Khf2frrAptLNuivw2Q8xTPIZ4NARsQ8H3PNJJwjTO"
+        }
+      ]
+    }
+  ]
+}
